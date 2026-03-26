@@ -1,0 +1,11 @@
+.venv/
+.git/
+.env
+.claude/
+chroma_langchain_db/
+__pycache__/
+*.py[oc]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
